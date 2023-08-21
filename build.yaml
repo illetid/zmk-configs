@@ -14,4 +14,4 @@
 ---
 include:
   - board: [jorian840_left, jorian840_right]
-    name: ["Jorian840 Omron", "Jorian840 Cobalt", "wEnki44"]
+    name: ["wEnki44"]
